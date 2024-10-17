@@ -29,9 +29,9 @@
 
 <p align="center">
 
-- **English Level**:
+- **English Level**: B2+
 
-- B2+
+<br>
 
 - **Languages**:
 
